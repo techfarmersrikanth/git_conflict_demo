@@ -1,1 +1,1 @@
-this is my config file
+this is our config file
